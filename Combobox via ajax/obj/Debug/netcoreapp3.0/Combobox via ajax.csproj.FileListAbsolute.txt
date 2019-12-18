@@ -1,0 +1,35 @@
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.exe
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.deps.json
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.runtimeconfig.json
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.runtimeconfig.dev.json
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.dll
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.pdb
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.Views.dll
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\bin\Debug\netcoreapp3.0\Combobox via ajax.Views.pdb
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\staticwebassets\Combobox via ajax.StaticWebAssets.Manifest.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\staticwebassets\Combobox via ajax.StaticWebAssets.xml
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.RazorAssemblyInfo.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.RazorAssemblyInfo.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.AssemblyInfo.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.TagHelpers.input.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.TagHelpers.output.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.RazorCoreGenerate.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.RazorTargetAssemblyInfo.cache
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.RazorTargetAssemblyInfo.cs
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.Views.pdb
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.dll
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.pdb
+C:\Users\elias\source\repos\Teste .Net\Combobox via ajax\obj\Debug\netcoreapp3.0\Combobox via ajax.csproj.CopyComplete

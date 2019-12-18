@@ -1,0 +1,66 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<select id="combo1">
+    <option>Selecione</option>
+</select>
+<select id="combo2">
+    <option>Selecione</option>
+</select>
+
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script type="text/javascript">       
+        var categorias = [
+            { "Id": "1", "Categoria": "Carros" },
+            { "Id": "2", "Categoria": "Esportes" }]
+       
+        var subCategorias = [
+            { Id: 1, IdCategoria: 1, Nome: "Cruze" },
+            { Id: 2, IdCategoria: 1, Nome: "Jetta" },
+            { Id: 3, IdCategoria: 1, Nome: "Civic" },
+            { Id: 4, IdCategoria: 1, Nome: "Audi" },
+            { Id: 5, IdCategoria: 1, Nome: "Fusca" },
+            { Id: 6, IdCategoria: 2, Nome: "Futebol" },
+            { Id: 7, IdCategoria: 2, Nome: "Volei" },
+            { Id: 8, IdCategoria: 2, Nome: "Tenis" },
+            { Id: 9, IdCategoria: 2, Nome: "Hockey" },
+            { Id: 10, IdCategoria: 2, Nome: "Natação" }
+        ]
+
+        $(document).ready(function () {
+           
+            $.each(categorias, function (i, categoria) {
+               
+                $("#combo1").append($('<option>', {                   
+                    value: categoria.Id,                    
+                    text: categoria.Categoria
+                }))
+            })
+            
+            $("#combo1").change(function () {             
+                var categoria = $(this).val()
+                carregaCombo2(categoria);
+            })
+
+            
+            $("#combo1").val(2)      
+            carregaCombo2(2)          
+            $("#combo2").val(3)
+        })
+
+        function carregaCombo2(categoria) {
+           
+            var subCategoriasFiltradas = $.grep(subCategorias, function (e) { return e.IdCategoria == categoria; });         
+            $("#combo2").html('<option>Selecione</option>');
+            $.each(subCategoriasFiltradas, function (i, subcategoria) {
+                $("#combo2").append($('<option>', {
+                    value: subcategoria.Id, 
+                    text: subcategoria.Nome 
+                }))
+            })
+        }
+
+</script>
